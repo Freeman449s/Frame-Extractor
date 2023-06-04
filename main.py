@@ -31,7 +31,7 @@ def error(message: str):
 
 # 打印欢迎信息
 print("(C) 2023, Gordon Freeman Tang")
-print("License under the MIT license.")
+print("Licensed under the MIT license.")
 print("欢迎使用视频帧提取器")
 
 # 读取视频

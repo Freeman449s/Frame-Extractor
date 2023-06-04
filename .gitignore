@@ -1,1 +1,7 @@
 .idea
+__pycache__
+
+# pyinstaller生成文件
+build
+dist
+main.spec
